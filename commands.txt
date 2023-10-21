@@ -1,0 +1,46 @@
+
+rm -r folder
+
+cp pathfrom pathto
+
+
+mv hello{5..6}.txt pathwheretomove
+
+touch
+cat 
+
+echo hello world > hello.txt
+append
+
+>>overwrite
+
+
+addgroup groupname
+
+adduser john --gid 1001
+
+chmod 
+
+4 read
+2 write
+1 execute
+
+--r --- ---
+owner group other
+
+
+mkdir everone
+chmod 777 everyone
+
+chmod 777 file.txt
+
+chgrp newgroup filename
+
+chown newown filename
+
+in root give permission to tom
+chmod 777 tom
+
+mkdir
+touch
+

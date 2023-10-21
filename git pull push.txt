@@ -1,0 +1,14 @@
+
+
+git clone
+
+go into reponame
+
+git add .
+
+git status
+
+git commit -m "committed"
+
+git push
+
